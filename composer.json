@@ -1,7 +1,7 @@
 {
-    "name": "laravel-notification-channels/webhook",
+    "name": "pete001/webhook",
     "description": "Webhook Notifications driver",
-    "homepage": "https://github.com/laravel-notification-channels/webhook",
+    "homepage": "https://github.com/pete001/webhook",
     "license": "MIT",
     "authors": [
         {
